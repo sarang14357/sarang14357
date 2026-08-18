@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sarang Dhake
 
-### 🤖 AI/ML Enthusiast | Python Developer | Former Software Test Engineer
+### 🤖 AI/ML Enthusiast | Python | Former Software Test Engineer
 
 I am an **AI/ML enthusiast transitioning into the Artificial Intelligence domain**, with a strong foundation in software testing, Python automation, and CI/CD.
 
