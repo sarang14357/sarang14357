@@ -23,57 +23,27 @@ I recently completed a **Post Graduate Certificate Programme in Artificial Intel
 
 ## 🛠️ Technical Skills
 
-### 🤖 Artificial Intelligence
+### 🤖 AI / ML
+![Python](https://img.shields.io/badge/Code-Python-blue)
+![Machine Learning](https://img.shields.io/badge/AI-Machine%20Learning-blue)
+![Deep Learning](https://img.shields.io/badge/AI-Deep%20Learning-purple)
+![Computer Vision](https://img.shields.io/badge/AI-Computer%20Vision-yellow)
+![NLP](https://img.shields.io/badge/AI-NLP-green)
 
-* Artificial Intelligence
-* Machine Learning
-* Deep Learning
-* DNN
-* Computer Vision
-* Natural Language Processing
-* Generative AI fundamentals
+### 🧠 Generative AI
+![GenAI](https://img.shields.io/badge/GenAI-Generative%20AI-purple)
+![LLM](https://img.shields.io/badge/GenAI-LLM-blueviolet)
+![LangChain](https://img.shields.io/badge/Framework-LangChain-green)
+![LangGraph](https://img.shields.io/badge/Framework-LangGraph-orange)
+![MCP](https://img.shields.io/badge/Protocol-MCP-blue)
+![RAG](https://img.shields.io/badge/Architecture-RAG-red)
 
-### 📊 Machine Learning & Data
-
-* Data Processing
-* Data Analysis
-* Supervised Learning
-* Unsupervised Learning
-* Feature Engineering
-* Model Evaluation
-* Hyperparameter Tuning
-* Ensemble Learning
-
-### 🧠 Deep Learning
-
-* Neural Networks
-* CNN
-* Transfer Learning
-* Image Classification
-* Image Segmentation
-* Model Optimization
-
-### 🐍 Programming
-
-* Python
-* Java
-* SQL
-
-### 🧪 Software Engineering & Automation
-
-* PyTest
-* Selenium
-* REST API Testing
-* Test Automation
-
-### ⚙️ DevOps & Cloud
-
-* CI/CD (Jenkins)
-* Git & GitHub
-* Docker
-* Kubernetes (Basics)
-* Cloud Computing (AWS / Azure fundamentals)
-
+### ⚙️ Tools
+![PyTest](https://img.shields.io/badge/Testing-PyTest-green)
+![Jenkins](https://img.shields.io/badge/CI%2FCD-Jenkins-red)
+![Git](https://img.shields.io/badge/Tool-Git-black)
+![GitHub](https://img.shields.io/badge/Tool-GitHub-black)
+![Docker](https://img.shields.io/badge/DevOps-Docker-blue)
 ## 🏥 Featured Project
 
 ### 🧠 NeuroShield AI — Multi-Modal Clinical Decision Support System
