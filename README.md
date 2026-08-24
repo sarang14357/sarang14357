@@ -8,18 +8,14 @@ I recently completed a **Post Graduate Certificate Programme in Artificial Intel
 
 ## 🚀 About Me
 
-* 🎓 Completed **PGCP-AI**
-* 🤖 Strong foundation in **Machine Learning & Deep Learning**
-* 🧠 Knowledge of **DNN and Neural Network architectures**
-* 👁️ Exploring **Computer Vision**
-* 💬 Knowledge of **NLP**
-* 📊 Experience with **Data Processing & Data Science concepts**
-* 🐍 Strong programming foundation in **Python**
-* 🧪 Previous experience in **Software Testing & Test Automation**
-* ⚙️ Experience with **PyTest and Jenkins CI/CD**
-* ☁️ Exposure to **Cloud Computing and Deployment Concepts**
-* 🔬 Interested in building practical, production-oriented **AI/ML solutions**
-* 🎯 Currently looking for opportunities to transition into an **AI/ML Engineer role**
+- 🎓 **PGCP-AI** graduate with a strong foundation in **AI/ML**
+- 🤖 Knowledge of **Machine Learning, Deep Learning, DNN, CNN & NLP**
+- 👁️ Experience with **Computer Vision & Medical Image Analysis**
+- 🧠 Exploring **Generative AI, LLMs, RAG, LangChain & LangGraph**
+- 🐍 Strong **Python** programming foundation
+- 🧪 Former Software Test Engineer with **PyTest, REST APIs & Jenkins CI/CD** experience
+- ☁️ Exposure to **Cloud & Deployment Concepts**
+- 🎯 **Aspiring AI/ML Engineer** focused on building practical AI solutions
 
 ## 🛠️ Technical Skills
 
@@ -50,14 +46,10 @@ I recently completed a **Post Graduate Certificate Programme in Artificial Intel
 
 My PGCP-AI capstone project focused on applying AI to neurological healthcare workflows.
 
-**Key areas:**
+### 🧠 Key Areas
 
-* 🧠 Brain Tumor Classification
-* 🎯 Tumor Segmentation
-* 🩻 CT-based Stroke Analysis
-* 📊 Stroke Risk Prediction
-* 🔗 Multi-Modal AI approach
-* 🏥 Clinical Decision Support
+🧠 Brain Tumor Classification &nbsp;•&nbsp; 🎯 Tumor Segmentation &nbsp;•&nbsp; 🩻 CT Stroke Analysis  
+📊 Stroke Risk Prediction &nbsp;•&nbsp; 🔗 Multi-Modal AI &nbsp;•&nbsp; 🏥 Clinical Decision Support
 
 The project combines **Machine Learning, Deep Learning, Computer Vision, NLP(Bio_ClinicalBERT) and data-driven approaches** to build an AI-assisted healthcare system.
 
