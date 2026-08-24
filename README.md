@@ -65,15 +65,16 @@ The project combines **Machine Learning, Deep Learning, Computer Vision, NLP(Bio
 
 Before transitioning into AI, I worked as a **Software Test Engineer**, where I gained practical experience in:
 
-* Python automation
-* PyTest
-* Test case development
-* REST APIs
-* Jenkins CI/CD
-* Linux
-* Git
-* Automated testing
-* Debugging and troubleshooting
+### 🧪 Testing & Automation
+
+![Python](https://img.shields.io/badge/Automation-Python-blue)
+![PyTest](https://img.shields.io/badge/Testing-PyTest-green)
+![REST API](https://img.shields.io/badge/API-REST-orange)
+![Jenkins](https://img.shields.io/badge/CI%2FCD-Jenkins-red)
+![Linux](https://img.shields.io/badge/OS-Linux-yellow)
+![Git](https://img.shields.io/badge/Tool-Git-black)
+![Test Automation](https://img.shields.io/badge/Testing-Automation-blue)
+![Debugging](https://img.shields.io/badge/Skill-Debugging-purple)
 
 This experience gives me a strong software engineering foundation that I now apply to **AI/ML development and deployment workflows**.
 
