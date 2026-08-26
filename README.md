@@ -57,7 +57,7 @@ The project combines **Machine Learning, Deep Learning, Computer Vision, NLP(Bio
 
 Before transitioning into AI, I worked as a **Software Test Engineer**, where I gained practical experience in:
 
-### 🧪 Testing & Automation
+### 🧪 Automation Testing
 
 ![Python](https://img.shields.io/badge/Automation-Python-blue)
 ![PyTest](https://img.shields.io/badge/Testing-PyTest-green)
