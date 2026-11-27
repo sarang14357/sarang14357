@@ -1,45 +1,36 @@
 # 👋 Hi, I'm Sarang Dhake
 
-### 🤖 AI/ML Enthusiast | Python | Former Software Test Engineer
+### 🤖 AI/ML Engineer | Network Automation Testing | Python | AI in Testing.
 
-I am an **AI/ML enthusiast transitioning into the Artificial Intelligence domain**, with a strong foundation in software testing, Python automation, and CI/CD.
+I am a Software Test Engineer with experience in network software testing, Python automation, and CI/CD, transitioning into AI/ML engineering.
 
-I recently completed a **Post Graduate Certificate Programme in Artificial Intelligence (PGCP-AI)**, where I developed in-depth knowledge across the AI/ML lifecycle — from **data processing and machine learning to deep learning and AI applications**.
+I have completed my Post Graduate Certificate Programme in Artificial Intelligence (PGCP-AI) from CDAC, developing knowledge in Machine Learning, Deep Learning, Computer Vision, NLP, and Generative AI.
+
+My goal is to combine my software testing and networking background with AI/ML to build intelligent, automated, and reliable software solutions.
 
 ## 🚀 About Me
-
-- 🎓 **PGCP-AI** graduate with a strong foundation in **AI/ML**
-- 🤖 Knowledge of **Machine Learning, Deep Learning, DNN, CNN & NLP**
-- 👁️ Experience with **Computer Vision & Medical Image Analysis**
-- 🧠 Exploring **Generative AI, LLMs, RAG, LangChain & LangGraph**
-- 🐍 Strong **Python** programming foundation
-- 🧪 Former Software Test Engineer with **PyTest, REST APIs & Jenkins CI/CD** experience
-- ☁️ Exposure to **Cloud & Deployment Concepts**
-- 🎯 **Aspiring AI/ML Engineer** focused on building practical AI solutions
+- 🎓 PGCP-AI graduate with a foundation in AI/ML
+- 🌐 Experience in Network Software Testing at Cisco
+- 🧪 Hands-on experience with Python, PyTest, pyATS, and REST API testing
+- ⚙️ Experience with Jenkins, Git, Linux, and test automation
+- 🤖 Knowledge of Machine Learning, Deep Learning, CNN, and NLP
+- 🧠 Exploring AI-powered testing, Generative AI, LLMs, RAG, and LangChain
+- 👁️ Interested in Computer Vision and Medical Image Analysis
+- 🎯 Aspiring Network Automation Engineer and AI/ML Engineer
 
 ## 🛠️ Technical Skills
+### 🌐 Network Automation & Testing:-
+Python | PyTest | pyATS | Network Automation | L2/L3 Protocol Testing | VLAN | OSPF | REST API Testing | Functional Testing | Regression Testing | Network Troubleshooting
 
-### 🤖 AI / ML
-![Python](https://img.shields.io/badge/Code-Python-blue)
-![Machine Learning](https://img.shields.io/badge/AI-Machine%20Learning-blue)
-![Deep Learning](https://img.shields.io/badge/AI-Deep%20Learning-purple)
-![Computer Vision](https://img.shields.io/badge/AI-Computer%20Vision-yellow)
-![NLP](https://img.shields.io/badge/AI-NLP-green)
+### 🤖 AI / ML:-
+Python | Machine Learning | Deep Learning | DNN | CNN | Computer Vision | NLP | Data Processing | Scikit-learn | TensorFlow | PyTorch
 
-### 🧠 Generative AI
-![GenAI](https://img.shields.io/badge/GenAI-Generative%20AI-purple)
-![LLM](https://img.shields.io/badge/GenAI-LLM-blueviolet)
-![LangChain](https://img.shields.io/badge/Framework-LangChain-green)
-![LangGraph](https://img.shields.io/badge/Framework-LangGraph-orange)
-![MCP](https://img.shields.io/badge/Protocol-MCP-blue)
-![RAG](https://img.shields.io/badge/Architecture-RAG-red)
+### 🧠 AI in Testing & Generative AI:-
+AI-powered Test Automation | Generative AI | LLMs | Prompt Engineering | RAG | LangChain | LangGraph | MCP | AI-assisted Test Case Generation | Intelligent Test Analysis
 
-### ⚙️ Tools
-![PyTest](https://img.shields.io/badge/Testing-PyTest-green)
-![Jenkins](https://img.shields.io/badge/CI%2FCD-Jenkins-red)
-![Git](https://img.shields.io/badge/Tool-Git-black)
-![GitHub](https://img.shields.io/badge/Tool-GitHub-black)
-![Docker](https://img.shields.io/badge/DevOps-Docker-blue)
+### ⚙️ Tools & Technologies:- 
+Jenkins | Git | GitHub | Linux | CI/CD | Docker | SQL | REST APIs
+
 ## 🏥 Featured Project
 
 ### 🧠 NeuroShield AI — Multi-Modal Clinical Decision Support System
@@ -53,30 +44,34 @@ My PGCP-AI capstone project focused on applying AI to neurological healthcare wo
 
 The project combines **Machine Learning, Deep Learning, Computer Vision, NLP(Bio_ClinicalBERT) and data-driven approaches** to build an AI-assisted healthcare system.
 
-## 💼 Previous Experience
+## 💼 Professional Experience
 
-Before transitioning into AI, I worked as a **Software Test Engineer**, where I gained practical experience in:
+Worked on the Evolved Programmable Network Manager (EPNM) project within the Mass-Scale Infrastructure Group.
+Key Responsibilities:
+- Developed and executed automated test scripts using Python, PyTest, and pyATS.
+- Performed functional testing of network management software.
+- Validated L2/L3 networking protocols, including VLAN and OSPF.
+- Performed REST API testing and validation.
+- Integrated test scripts into Jenkins CI pipelines.
+- Debugged test failures and supported root cause analysis.
+- Managed defects and test activities using Jira.
+- Worked with Linux environments and virtual network devices.
 
-### 🧪 Automation Testing
-
-![Python](https://img.shields.io/badge/Automation-Python-blue)
-![PyTest](https://img.shields.io/badge/Testing-PyTest-green)
-![REST API](https://img.shields.io/badge/API-REST-orange)
-![Jenkins](https://img.shields.io/badge/CI%2FCD-Jenkins-red)
-![Linux](https://img.shields.io/badge/OS-Linux-yellow)
-![Git](https://img.shields.io/badge/Tool-Git-black)
-![Test Automation](https://img.shields.io/badge/Testing-Automation-blue)
-![Debugging](https://img.shields.io/badge/Skill-Debugging-purple)
-
-This experience gives me a strong software engineering foundation that I now apply to **AI/ML development and deployment workflows**.
+This experience strengthened my foundation in software engineering, network testing, automation, and CI/CD.
 
 ## 🎯 Career Goal
 
 I am currently looking for opportunities in:
 
-**AI/ML Engineer | Machine Learning Engineer | Deep Learning Engineer | Computer Vision Engineer | AI Engineer**
+- Network Automation Engineer
+- Network Software Test Engineer
+- QA Automation Engineer
+- AI in Testing / AI Test Automation Engineer
+- Junior AI Engineer
+- Machine Learning Engineer
+- Computer Vision Engineer
 
-I am particularly interested in roles where I can combine my **Python, software engineering, automation, DevOps and AI/ML skills** to build real-world intelligent applications.
+I am particularly interested in roles where I can combine networking, software testing, Python automation, and AI/ML to build intelligent and reliable software solutions.
 
 ---
 
